@@ -1,0 +1,13 @@
+<!DOCTYPE HTML><b>DOCUMENT #1</b>
+<br>
+<br>
+<h2> NOTES</h2>
+<br>
+different types of tags<br>
+    
+<b>Bold tag used to make things bold</b><br>
+<em>Em Tag to make things italiziced</em><br>
+
+<div style="background-color:pink; color:white; helvetica:20px;">  
+    
+<p>span and div are elements.
